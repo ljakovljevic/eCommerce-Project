@@ -11,8 +11,8 @@ This project's frontend is built with React. Below is a concise summary of the t
 
 #### How to run
 ```
-- Install Dependencies: _npm install_
-- Start the Development Server: _npm run dev_
+- Install Dependencies: npm install
+- Start the Development Server: npm run dev
 
 ```
 # Backend
@@ -38,7 +38,7 @@ Endpoints
 - /user/login: Logs in user, returns JWT.
 - /user/register: Creates a new user.
 - /api/products: Returns available products.
-- /user/cart: Manages cart items **(protected)**.
-- /user/orders: Manages orders **(protected)**.
+- /user/cart: Manages cart items (protected).
+- /user/orders: Manages orders (protected).
 
 ```
