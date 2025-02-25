@@ -1,5 +1,5 @@
 # eCommerce-Project
-Full stack eCommerce Store Project implemented using React framework with Thailwind for stylization on frontend, and Java Spring framework on backend, using Spring Boot for fast and easy configuration, Spring Security and Spring JPA (Hibernate) for communication with PostgreSQL database. This project has Authorization feature implemented with JWT using Spring Security, various types of filtering through the products using categories or search as well as few types of sorting.
+Full stack eCommerce Store Project implemented using React framework with Tailwind for stylization on frontend, and Java Spring framework on backend, using Spring Boot for fast and easy configuration, Spring Security and Spring JPA (Hibernate) for communication with PostgreSQL database. This project has Authorization feature implemented with JWT using Spring Security, various types of filtering through the products using categories or search as well as few types of sorting.
 
 # Frontend
 This project's frontend is built with React. Below is a concise summary of the technologies used to develop it:
